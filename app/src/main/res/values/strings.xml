@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BinPlusInternship</string>
+    <string name="BinPlusLogin">Login Page</string>
+    <string name="BinPlusRegister">Register Page</string>
+    <string name="email_hint">Please Enter Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button_string">Login</string>
+    <string name="login_reg_button_string">New User? Register</string>
+    <string name="register_email_hint">Please Enter Email</string>
+    <string name="reg_pass_hint">Password</string>
+    <string name="reg_confPass_hint">Confirm Password</string>
+    <string name="reg_button">Register</string>
+    <string name="reg_login_button">Existing User? Login</string>
+    <string name="main_logout_stirng">Logout</string>
+    <string name="main_textView_string">Sample String</string>
+</resources>

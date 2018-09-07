@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "712147350072",
+    "firebase_url": "https://binplusinternship.firebaseio.com",
+    "project_id": "binplusinternship",
+    "storage_bucket": "binplusinternship.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712147350072:android:db6bb6920987f8a0",
+        "android_client_info": {
+          "package_name": "com.freelancer.vishal.binplusinternship"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712147350072-9m9pcpufs4losmoolh5o0b09uekvjj1k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.freelancer.vishal.binplusinternship",
+            "certificate_hash": "f7e2569060d900b4c2b86f3ad653baa92907f3d5"
+          }
+        },
+        {
+          "client_id": "712147350072-62bk8kn3jn93p418ks74lcb8u8nlj6ss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkPzBDTHsbxrq1VgBhmQu9jvEo1i5VK4c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712147350072-62bk8kn3jn93p418ks74lcb8u8nlj6ss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
